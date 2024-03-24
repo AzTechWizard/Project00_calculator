@@ -1,0 +1,11 @@
+1)npm init:
+It will make a package,json file!
+write description, author, change license to MIT
+
+2)tsc --init:
+It will make a tsconfig file to change settings.
+
+3)stay on package.json file and run ( npm i inquirer )
+It will make a dependency library in package.json, without this we can not use inquirer.
+
+4)stay on package.json( npm i --save-dev @types/inquirer )
